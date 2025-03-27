@@ -4,7 +4,7 @@ date: 2024-08-19 03:47:00 +0800
 categories: [工具&someting,Vectras-VM]
 tags: [Vectras-VM,虚拟机,win虚拟机]
 image:
-  path: ./assets/img/post/2024-08-19-Vectras-VM-汉化/titlePIC.png
+  path: ./assets/img/post/2024-08-19-Vectras-VM/titlePIC.png
 ---
 
 项目地址和软件下载链接在评论区  
