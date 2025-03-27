@@ -3,10 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
+- type: 酷安
   icon: "fa-brands fa-x-twitter"
 
-- type: email
+- type: bilibili
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
