@@ -1,5 +1,5 @@
 ---
-layout: 历史记录
+layout: archives
 icon: fas fa-archive
 order: 3
 ---
