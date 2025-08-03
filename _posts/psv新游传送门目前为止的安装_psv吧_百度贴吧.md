@@ -1,0 +1,16 @@
+**psv新游“传送门”目前为止的安装**
+
+1先去itch上下载构建包"ApetureReconstructed\_0.1.27点zip"和Steam上下载"PORTAL";  
+2准备完成后将!zip里的3个文件!解压到"C:\\Program Files(x86)\\Steam\\steamapps\\common\\Portal\\portal"文件夹中;  
+3运行"ApplyPatch点bat"，待提示完成后将文件夹内的"ApetureReconstructed点vpk"和"portal\_pak\_dir.vpk"传到psv上，![](C:\Users\23903\Pictures\Screenshots\屏幕截图 2025-08-04 010645.png)
+
+
+打开psv找到"ApetureReconstructed点vpk"安装(中间如果有弹窗直接确定);  
+4将portal\_pak\_dir.vpk移动到psv上的"ux0:data/AptrRecon"目录(如果没有请先打开刚才安装的软件，会提示需要portal\_pak\_dir.vpkundefined  
+5享受游戏  
+具体的软件除了portal游戏，其余我会全部放在网盘  
+
+![](C:\Users\23903\Downloads\psv新游传送门目前为止的安装_psv吧_百度贴吧_psv新游传送门目前为止的安装_psv吧_百度贴吧_91987666d01609249bd2890f920735fae7cd3497.jpg)
+
+  ![](C:\Users\23903\Downloads\psv新游传送门目前为止的安装_psv吧_百度贴吧_psv新游传送门目前为止的安装_psv吧_百度贴吧_7503f4160924ab18a6e1ca2373fae6cd7a890b97.jpg)
+![](C:\Users\23903\Downloads\psv新游传送门目前为止的安装_psv吧_百度贴吧_psv新游传送门目前为止的安装_psv吧_百度贴吧_1ebe92fd5266d01626eeb53cd12bd40734fa3597.jpg)
